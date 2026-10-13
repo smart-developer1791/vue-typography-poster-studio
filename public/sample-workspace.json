@@ -1,0 +1,22 @@
+{
+  "format": "TP/1",
+  "title": "An ordinary afternoon",
+  "heading": "The art\nof slowing down.",
+  "subtitle": "A little room for the things that make an ordinary day feel lovely.",
+  "footer": "SOMEWHERE QUIET · ANY ORDINARY AFTERNOON",
+  "template": "editorial",
+  "shape": "portrait",
+  "font": "bricolage",
+  "size": 88,
+  "leading": 1.08,
+  "tracking": -2,
+  "align": "left",
+  "paper": "#f4eddf",
+  "ink": "#343b34",
+  "accent": "#b36243",
+  "provenance": {
+    "project": "vue-typography-poster-studio",
+    "author": "CodeSculptor",
+    "marker": "TP-FEC680A7"
+  }
+}
